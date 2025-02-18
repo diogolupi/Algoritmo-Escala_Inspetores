@@ -1,0 +1,1 @@
+# Algoritmo-Escala_Inspetores
