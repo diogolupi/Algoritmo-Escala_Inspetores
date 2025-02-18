@@ -43,6 +43,3 @@ O algoritmo processa as seguintes planilhas:
 - **Modificar o número máximo de escalas por inspetor**: Ajuste o parâmetro `max_escalas`.
 - **Alterar o critério de escolha entre candidatos**: Defina `priorizar_menos_escala=False` para escolha aleatória.
 - **Adicionar novos critérios**: O código pode ser expandido para incluir regras adicionais de alocação.
-
-## Contato
-Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request!
